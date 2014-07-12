@@ -1,0 +1,7 @@
+parameters:
+#    tanix_test_json_response.example.class: Tanix\Bundle\TestJsonResponseBundle\Example
+
+services:
+#    tanix_test_json_response.example:
+#        class: %tanix_test_json_response.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,5 @@
+tanix_test_json_response:
+    resource: "@TanixTestJsonResponseBundle/Controller"
+    type:     annotation
+    prefix:   /test_json
+
